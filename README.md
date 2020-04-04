@@ -57,4 +57,4 @@ out
 
 ## License 
 
-This project is distributed under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
+This project is distributed under the [BSD 3-Clause](./LICENSE).
